@@ -2,7 +2,7 @@
 ___
 
 ### Content:
-A basic website with a homepage and a website with a food recipe.
+A basic website with a homepage and some webpages with food recipes.
 
 ### Skills used:
 + Basic HTML *text-based* elements, such as paragraphs or headings.
