@@ -39,3 +39,10 @@ body {
 .image-container {
     text-align: center;
 }
+
+.recipe-container {
+    background-color: white;
+    padding: 8px;
+    border: 2px solid black;
+    margin: 8px 0;
+}
