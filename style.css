@@ -33,6 +33,7 @@ body {
 .food-image {
     height: 300px;
     width: auto;
+    border: 2px solid black;
 }
 
 
@@ -40,9 +41,20 @@ body {
     text-align: center;
 }
 
-.recipe-container {
+.recipe-container,
+.ingredients-container,
+.steps-container {
     background-color: white;
     padding: 8px;
     border: 2px solid black;
     margin: 8px 0;
+}
+
+.ingredients-container,
+.steps-container {
+    padding: 0 8px;
+}
+
+.to-homepage-link {
+    text-align: end;
 }
