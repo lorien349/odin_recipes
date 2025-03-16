@@ -15,4 +15,4 @@ A basic website with a homepage and some webpages with food recipes.
 + **CSS**
     + Several selectors, like *class*, *ID* or *element* selectors.
     + Basic image and typography properties, such as *background-color*, *font-family* or *height*.
-    + Box-Model and Box-Model based properties, like *padding*, *border*, and *padding*.
+    + Box-Model and Box-Model based properties, like *padding*, *border*, and *margin*.
